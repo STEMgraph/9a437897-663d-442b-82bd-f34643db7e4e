@@ -1,6 +1,7 @@
 <!---
 {
   "id": "9a437897-663d-442b-82bd-f34643db7e4e",
+  "teaches": "Introducing Boolean Algebra with Switches and Logic",
   "depends_on": ["binary_switch_mapping"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-03-27",
